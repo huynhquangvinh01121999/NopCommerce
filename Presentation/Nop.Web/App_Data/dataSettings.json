@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=DESKTOP-8LKBRP0;Initial Catalog=NopEcommerce;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=0112",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
