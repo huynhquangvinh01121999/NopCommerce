@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5pxCamRi6VmcXREPW0X5Zd1SYmghhuAgzsiox5Mn7niO/1SVak1uW8dM1s9WtzK1MSUkBLUj8rHlRq96Snn9XQ==",
+  "dgSpecHash": "yQ1jnAUsQhSF2I8dY99LjjFlb3VcvYnxXqTLoIqhy1ZEN87YNSpe77DctXqaVywT2I+PMwEupp3KZmakKGgNIw==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Widgets.NivoSlider\\Nop.Plugin.Widgets.NivoSlider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

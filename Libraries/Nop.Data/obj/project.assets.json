@@ -11184,11 +11184,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
       "projectName": "Nop.Data",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11204,8 +11204,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
             }
           }
         }

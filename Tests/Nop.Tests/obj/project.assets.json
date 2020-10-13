@@ -4518,7 +4518,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -13439,11 +13442,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
       "projectName": "Nop.Tests",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13459,11 +13462,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }

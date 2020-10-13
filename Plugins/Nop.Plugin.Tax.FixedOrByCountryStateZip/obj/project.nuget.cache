@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IiR0JgyWtMI38eEM5mZD7T4BH3sa8Ef66p4kaVhtKWB3shwpFPSwDo1+6xTjF2VHgGYQ2CEXxa1eDINivJdo+Q==",
+  "dgSpecHash": "ej14vFWifNHh+hDEC6eVJigDRWFiWhsC4dbDXNL04AAHNgWkhcX4Ji6nvUBnsDl1zhwZ/zabcG6ShSa0rlKGeg==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Tax.FixedOrByCountryStateZip\\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

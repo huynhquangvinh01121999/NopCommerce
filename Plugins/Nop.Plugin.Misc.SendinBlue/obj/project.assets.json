@@ -12760,11 +12760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Misc.SendinBlue\\Nop.Plugin.Misc.SendinBlue.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Misc.SendinBlue\\Nop.Plugin.Misc.SendinBlue.csproj",
       "projectName": "Nop.Plugin.Misc.SendinBlue",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Misc.SendinBlue\\Nop.Plugin.Misc.SendinBlue.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Misc.SendinBlue\\Nop.Plugin.Misc.SendinBlue.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Misc.SendinBlue\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Misc.SendinBlue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12780,8 +12780,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

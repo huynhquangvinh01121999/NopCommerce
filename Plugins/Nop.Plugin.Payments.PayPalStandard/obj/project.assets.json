@@ -4216,7 +4216,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -4260,7 +4263,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Web.Framework.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -12754,11 +12760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
       "projectName": "Nop.Plugin.Payments.PayPalStandard",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\Nop.Plugin.Payments.PayPalStandard.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalStandard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12774,8 +12780,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
             }
           }
         }

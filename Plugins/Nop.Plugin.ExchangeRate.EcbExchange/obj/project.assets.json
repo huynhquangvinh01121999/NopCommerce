@@ -4091,7 +4091,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -12411,11 +12414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
       "projectName": "Nop.Plugin.ExchangeRate.EcbExchange",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12431,8 +12434,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }

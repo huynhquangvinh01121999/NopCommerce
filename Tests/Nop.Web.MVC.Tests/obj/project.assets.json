@@ -4643,7 +4643,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -4727,7 +4730,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Web.Framework.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -13830,11 +13836,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Web.MVC.Tests\\Nop.Web.MVC.Tests.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Web.MVC.Tests\\Nop.Web.MVC.Tests.csproj",
       "projectName": "Nop.Web.MVC.Tests",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Web.MVC.Tests\\Nop.Web.MVC.Tests.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Web.MVC.Tests\\Nop.Web.MVC.Tests.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Web.MVC.Tests\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Web.MVC.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13850,11 +13856,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
             },
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }

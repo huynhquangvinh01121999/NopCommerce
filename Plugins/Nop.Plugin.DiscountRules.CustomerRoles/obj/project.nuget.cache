@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z46e+yJ70RwrjtWQmxhZMHaZK+z/KKV/5ZtWg3+LlAn75ij5sfKS87Qc1cV1E45jFYLMfSBi5fMA/40mVftyOg==",
+  "dgSpecHash": "2Y+hatOEVD43k+6qCs8sD0clKH/rQ5YgfyJkRwGhACdHyKQckrmGS25/qgJioWMXlPHzlxGh2Qn6Ga3ltotLhQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.DiscountRules.CustomerRoles\\Nop.Plugin.DiscountRules.CustomerRoles.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.DiscountRules.CustomerRoles\\Nop.Plugin.DiscountRules.CustomerRoles.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

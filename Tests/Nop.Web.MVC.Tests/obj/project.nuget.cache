@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsMH3yPvTtjC5UanRRfVT3cc7CvYNZq8kqmOR1winScPRI2CwCdR5Aj4f7FHmAeYBIcaFfIbc3wCfpVkNEP69Q==",
+  "dgSpecHash": "DsEHNVOEPFbYMqmAd2oZGv/iSGy8QfYK8ViNUsaZW3jK36K5ha4JDEp8ahcjOcypiKr2O6s4SRxGybQx/8jzhg==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Web.MVC.Tests\\Nop.Web.MVC.Tests.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Web.MVC.Tests\\Nop.Web.MVC.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

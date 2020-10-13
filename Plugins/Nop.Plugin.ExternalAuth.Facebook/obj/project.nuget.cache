@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ae4b/pmzk5GVYfePKl0L6omsFwLS0VzTW/c5cd2rccNOjliyKE2D9zNsBXnp2L79zhr2wbTqPev857PKYTw/LQ==",
+  "dgSpecHash": "PP6nTJr4UOMNY6wLlijSTz6eaxMi5bM12z39Ln48G2ZyeUOXFYMMG77G7UIHanpHJt+kXNqIjumbeTKtKzpNGQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

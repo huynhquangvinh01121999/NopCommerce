@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJUuFt4tSORnPdAWEZaUdlZUu2LaCtEsqnhtbdIDIFMX/fXpgGtMRVHrjdDRXzz2TbpVYGRmpUcg36G7fR05sA==",
+  "dgSpecHash": "zuo2wWbWPNWj25f2wYmZ0lOq+KWJRfKOmkgzAC859sAgcnrokF6Sw4GgEnodTj/Bn4cXaN7hkq7/YlB1LpqYLA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.Manual\\Nop.Plugin.Payments.Manual.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.Manual\\Nop.Plugin.Payments.Manual.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

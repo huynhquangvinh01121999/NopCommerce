@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DxLfe2tFg4E4kLg0vy0JB4FmRNW9xHr2KTtBxTe8DkYispaX9FuEFhRibPOl0g2YVLNFY1DPBN1YxmKAMc9DkQ==",
+  "dgSpecHash": "+pEnSPaIYKdqVI/RXgxvtMRegU/O8935IRd8O7YgNXXF12JANuS30ua5R8KcBuFpjzqwEsXGwuvWsnRfa4aE7Q==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

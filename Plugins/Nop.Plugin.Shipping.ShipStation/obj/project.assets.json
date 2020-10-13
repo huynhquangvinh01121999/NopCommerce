@@ -12784,11 +12784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Shipping.ShipStation\\Nop.Plugin.Shipping.ShipStation.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Shipping.ShipStation\\Nop.Plugin.Shipping.ShipStation.csproj",
       "projectName": "Nop.Plugin.Shipping.ShipStation",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Shipping.ShipStation\\Nop.Plugin.Shipping.ShipStation.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Shipping.ShipStation\\Nop.Plugin.Shipping.ShipStation.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Shipping.ShipStation\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Shipping.ShipStation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12804,8 +12804,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

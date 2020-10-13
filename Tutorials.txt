@@ -1,0 +1,6 @@
+-How to set Local Database
+https://stackoverflow.com/questions/18060667/why-am-i-getting-cannot-connect-to-server-a-network-related-or-instance-speci?page=2&tab=oldest#tab-top
+
+- How to install nopCommerce
+https://docs.nopcommerce.com/en/installation-and-upgrading/installing-nopcommerce/installing-on-windows.html
+https://hoctoantap.com/2019/10/03/huong-dan-phat-trien-website-thuong-mai-dien-tu-voi-nopcommerce.html

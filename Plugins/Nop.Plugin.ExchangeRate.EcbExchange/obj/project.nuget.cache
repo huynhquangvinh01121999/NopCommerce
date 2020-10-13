@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAftI7QOvITKnUWOOLX8ce0Xmlb4FnsuAKPcM1wGVCLorpRl/N8kfg98thNhnM9rJrxwG1YS9j0b9/9udPodGg==",
+  "dgSpecHash": "+yUaOJTQt8gjMIzdr+QlbST+OexvLjZ6FhXvRLIz/bFv4U9lbwUD4a3aaTyzzRFMq/jtheMDuGdAnHpYTbYuHQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.ExchangeRate.EcbExchange\\Nop.Plugin.ExchangeRate.EcbExchange.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

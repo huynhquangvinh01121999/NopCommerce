@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7fFflpXtkVQ13O9weM7YaTawWQ+V3DH/qV4+D/2vEHuE2+p5Fovp/viUY68dbo8MbG/zl6yNIS8mkxKv3nRHA==",
+  "dgSpecHash": "b8Y1TXWgY8w4HfzFgKohKNFpdZsJafrv1OCOCO8yXkvrffKAiLS3D32Zhr8Nx9Cw1v9kBsQSTCVUWaCM6f2SfA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Shipping.FixedByWeightByTotal\\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Shipping.FixedByWeightByTotal\\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GLWFqJjlD/fN1MQ4qrQ6nCw9nB96lRQ1/Jv7/QyhQY0ACHCkv1Er7xdlLZWnA8EfhVlQRWwT0mBcgi2sbIpCzw==",
+  "dgSpecHash": "+L1iwI+6ZxAOOHb9MDMVdHJZE+5zFYVk49Nf8pVwLjDipn+iLMV24/YOBr/F6mYqg/2ihMWde3f12KXiXg+iOA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

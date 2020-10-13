@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1nit90KQWu3b7hosIDZ3nDn3JkITcYQ/wfdV+SaGJSFhFj7hpOoCajKDT3DiljXu7yxPx6GNKDoHSOFrq+926A==",
+  "dgSpecHash": "bFoOta2wFXCoIiKPsfFCBhKV6owCpCOk2/gswRlo1sZKCNXl1cFGJ5AGyQ1Klw/6vZbn6W2nK5rrzaw1OyfXxQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

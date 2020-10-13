@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4f4xb74u4OijaOXofDhmmhV+rHyW1Iz4M/uc/f0WA1rP9964tS0qVwghaptrPxKNNg/RU77As0xPseKSFCXKeA==",
+  "dgSpecHash": "8INDW4n4RPOr36F2rat2xzGZ/9Ha/c7pEoTCUgS7AjCzsGJbCC0wqQVGjrXi/4Um+STToOgMhV+hLa/Ql5IF2w==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

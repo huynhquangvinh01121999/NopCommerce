@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj": {}
+    "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+    "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "projectName": "Nop.Core",
-        "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\obj\\",
+        "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,14 +109,14 @@
         }
       }
     },
-    "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+    "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
         "projectName": "Nop.Data",
-        "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\obj\\",
+        "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,8 +132,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+    "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
         "projectName": "Nop.Services",
-        "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\obj\\",
+        "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,11 +213,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
               },
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
               }
             }
           }
@@ -286,14 +286,14 @@
         }
       }
     },
-    "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj": {
+    "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+        "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
         "projectName": "Nop.Plugin.Payments.CheckMoneyOrder",
-        "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+        "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\obj\\",
+        "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -309,8 +309,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
               }
             }
           }
@@ -345,14 +345,14 @@
         }
       }
     },
-    "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+    "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
         "projectName": "Nop.Web.Framework",
-        "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Presentation\\Nop.Web.Framework\\obj\\",
+        "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Presentation\\Nop.Web.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -368,14 +368,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
               },
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
               },
-              "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-                "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj"
+              "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+                "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
               }
             }
           }

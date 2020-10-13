@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IPbdKCyKyUP4ELqhjl/lH415mwo3G5tXnbQdz+YDRgV7JaObK9haoHr9XIKUxfsWvqAlm1m8iZIVV8YZjOZCSA==",
+  "dgSpecHash": "lql3RTkRkwuIj2CB96Y/EfX2cHJsQv5mipzKqei719CobX9yQM/bp+DHjYfegimlOFbVTAP8YdCqvPTOytneLQ==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

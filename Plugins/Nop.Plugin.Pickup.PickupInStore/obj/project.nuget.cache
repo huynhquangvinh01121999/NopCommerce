@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VHdTvStGUgCenwSRprWSfOMLMTD9f3O5uYNhOfTVVol3TG0jxXEy+v2C9415aPsQbS5Jg6Eky8sVOdXrZbXseQ==",
+  "dgSpecHash": "5lLbUtWRhcH0NB6327b91wBzE42tRc2UZVrzw5eFosykrKbBBeLgSr274umAbQRcSFerzogdu+cpm0C/Xo40fA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

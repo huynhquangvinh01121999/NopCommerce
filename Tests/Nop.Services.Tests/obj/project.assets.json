@@ -13466,11 +13466,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+      "projectUniqueName": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
       "projectName": "Nop.Services.Tests",
-      "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+      "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Services.Tests\\obj\\",
+      "outputPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Services.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13486,11 +13486,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             },
-            "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "D:\\Documents\\Github Manager\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }

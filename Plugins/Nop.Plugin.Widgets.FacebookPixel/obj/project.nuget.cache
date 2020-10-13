@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9LdaUL9FnCOAws8uxvQ8RI/GBF8GHXMB3dAnHL2Gc973rKwZrTLq59LuJOccsc2inGUentaJxF2XBTHlVC0qw==",
+  "dgSpecHash": "MtV8v4eo5q418az7/Cy6FsPMF+ZWbKiG2LQS2zAzxE59CZ2JqYR85Oo83GvEFe1U/bUfqCkRJw9a7wEZdPCOpA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Thương mại điện tử\\Đồ án\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\Nop.Plugin.Widgets.FacebookPixel.csproj",
+  "projectFilePath": "D:\\Documents\\Github Manager\\NopCommerce\\Plugins\\Nop.Plugin.Widgets.FacebookPixel\\Nop.Plugin.Widgets.FacebookPixel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
